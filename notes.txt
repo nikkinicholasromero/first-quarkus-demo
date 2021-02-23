@@ -1,0 +1,10 @@
+TODO :
+bean wiring
+unit testing
+multiple environment configuration (LOCAL, DEV, QA, STAGE, PRODUCTION)
+in-memory database for local environment
+multiple database connection
+web service endpoint calls
+scheduler (with shedlock)
+endpoint security
+swagger-ui
