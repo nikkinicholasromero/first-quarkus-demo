@@ -2,9 +2,9 @@ TODO :
 bean wiring
 unit testing
 multiple environment configuration (LOCAL, DEV, QA, STAGE, PRODUCTION)
-in-memory database for local environment
-multiple database connection
-web service endpoint calls
+in-memory database for local environment (h2)
+multiple database connection (hibernate | postgresql | mysql)
+web service endpoint calls (resteasy)
 scheduler (with shedlock)
-endpoint security
-swagger-ui
+endpoint security (keycloak)
+documentation (swagger-ui)
